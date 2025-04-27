@@ -7,3 +7,8 @@ h1{
 #a1{
     color: green;
 }
+nav{
+    border-bottom: solid;
+    border-bottom-width: 2px;
+    border-bottom-color: gray;
+}
