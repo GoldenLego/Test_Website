@@ -11,4 +11,8 @@ nav{
     border-bottom: solid;
     border-bottom-width: 2px;
     border-bottom-color: gray;
+    margin: 10px;
+}
+header{
+    margin: 0px;
 }
